@@ -10,12 +10,8 @@ Install the module by using
 
 Advisable to install the spotipy module and run the program in a virtual environment
 
-<<<<<<< HEAD
 ---------------------------------------------------------------
 ## Sample
 
 ![sample](assets/sample.png)
-=======
-**Sample**
-![sample](assets/sample.png)
->>>>>>> d881c50 (secured api key)
+
