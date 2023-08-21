@@ -5,9 +5,11 @@
 
 This project requires [spotipy](https://spotipy.readthedocs.io/en/2.22.1/#) module to work
 Advisable to run the program in a python virtual environment
-Check for the pip version and upgrade if needed
+
+**Check for the pip version and upgrade if needed**
 > pip --version
-Install the spotipy module
+
+**Install the spotipy module**
 > pip install spotipy
 ---------------------------------------------------------------
 ## Sample
