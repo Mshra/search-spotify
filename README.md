@@ -4,12 +4,11 @@
 ![spotify logo](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png)
 
 This project requires [spotipy](https://spotipy.readthedocs.io/en/2.22.1/#) module to work
-Install the module by using 
-
+Advisable to run the program in a python virtual environment
+Check for the pip version and upgrade if needed
+> pip --version
+Install the spotipy module
 > pip install spotipy
-
-Advisable to install the spotipy module and run the program in a virtual environment
-
 ---------------------------------------------------------------
 ## Sample
 
