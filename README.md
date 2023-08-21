@@ -1,5 +1,5 @@
 # SpotiPy 
-## A project for MLH fellowship
+## A personal project to explore and learn use of API's(in particular spotify API)
 
 ![spotify logo](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png)
 
