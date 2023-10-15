@@ -15,4 +15,3 @@ Advisable to run the program in a python virtual environment
 ## Sample
 
 ![sample](assets/sample.png)
-
